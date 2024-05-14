@@ -14,14 +14,17 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=rohansen856&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohansen856&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansen856&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohansen856&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=rohansen856&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
-<!-- [![](https://visitcount.itsvg.in/api?id=rohansen856&icon=1&color=0)](https://visitcount.itsvg.in) -->
+<!--
+[![](https://visitcount.itsvg.in/api?id=rohansen856&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
