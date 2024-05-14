@@ -20,7 +20,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=rohansen856&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)]
+![trophy](https://github-profile-trophy.vercel.app/?username=rohansen856&theme=gruvbox)
 
 ---
 
