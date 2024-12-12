@@ -23,8 +23,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohansen856&theme=gruvbox)
 
 ---
+[![An image of @swstkswstk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swstkswstk)](https://holopin.io/@swstkswstk)
 
-<!--
 [![](https://visitcount.itsvg.in/api?id=rohansen856&icon=1&color=0)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
