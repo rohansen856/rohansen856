@@ -1,5 +1,3 @@
-![MasterHead](https://utfs.io/f/EaEK43yUIbaLoyc57XUi4GrNFedoLTDKuIxPQVjhl6kBmypt)
-
 # 💫 About Me:
 
 🔭 I’m currently pursuing my B.Tech. degree in Computer Science [![@IIITDMJ](https://img.shields.io/badge/@IIITDMJ-8A2BE2)](https://iiitdmj.ac.in)<br>👯 I’m looking to collaborate on exciting Flutter development projects.<br>🤝 I’m looking for help with expanding my knowledge and skills in Blockchain and software development.<br>🌱 I’m currently learning advanced techniques in DSA to enhance my problem solving skills.<br>💬 Ask me about Flutter development, UI design, and help me in my blockchain journey!<br>⚡ Fun fact: When I'm not coding, you can find me binge-watching web series or exploring new ways to innovate in Web3 and dApps!<br> 💫 Visit my personal Portfolio site [![Here](https://img.shields.io/badge/Here-8A2BE2)](https://rcsen.vercel.app)
@@ -25,7 +23,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohansen856&theme=gruvbox)
 
 ---
-[![An image of @swstkswstk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swstkswstk)](https://holopin.io/@rohansen856)
+[![An image of @rohansen856's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansen856)](https://holopin.io/@rohansen856)
 
 [![](https://visitcount.itsvg.in/api?id=rohansen856&icon=1&color=0)](https://visitcount.itsvg.in)
 
