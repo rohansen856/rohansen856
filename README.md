@@ -1,6 +1,16 @@
 # 💫 About Me:
 
-🔭 I’m currently pursuing my B.Tech. degree in Computer Science [![@IIITDMJ](https://img.shields.io/badge/@IIITDMJ-8A2BE2)](https://iiitdmj.ac.in)<br>👯 I’m looking to collaborate on exciting Flutter development projects.<br>🤝 I’m looking for help with expanding my knowledge and skills in Blockchain and software development.<br>🌱 I’m currently learning advanced techniques in DSA to enhance my problem solving skills.<br>💬 Ask me about Flutter development, UI design, and help me in my blockchain journey!<br>⚡ Fun fact: When I'm not coding, you can find me binge-watching web series or exploring new ways to innovate in Web3 and dApps!<br> 💫 Visit my personal Portfolio site [![Here](https://img.shields.io/badge/Here-8A2BE2)](https://rcsen.vercel.app)
+- 🌐 Linux Foundation Mentorship'25 at [OMP](https://github.com/openmainframeproject)
+- ₿ Summer of Bitcoin'2025 at [Braidpool](https://github.com/braidpool)
+- 🏛️ Code for Gov Tech DM'2025 at SocialCalc & EtherCalc.
+- 📊 Hacktoberfest'25 Contributor
+- 💻 5x Hackathon winner at IITK, IITKGP and IITR
+- 🔭 Currently pursuing my Bachelors in Computer Science [![@IIITDMJ](https://img.shields.io/badge/@IIITDMJ-8A2BE2)](https://iiitdmj.ac.in)
+- 👨‍🏫 Blockchain Lead of Bitbyte, The Programming Club at Indian Institute Of Information Technology , Jabalpur
+- 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
+- 🌱 I’m currently exploring Mainframe System Architecture and Data Analytics
+- 💫 Visit my personal Portfolio site [![Here](https://img.shields.io/badge/Here-8A2BE2)](https://rcsen.vercel.app)
+- 📫 Email me at [rohansen856@gmail.com](mailto:rohansen856@gmail.com)
 
 ## 🌐 Socials:
 
