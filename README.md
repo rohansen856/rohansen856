@@ -2,9 +2,10 @@
 
 - 🌐 Linux Foundation Mentorship'25 at [OMP](https://github.com/openmainframeproject)
 - ₿ Summer of Bitcoin'2025 at [Braidpool](https://github.com/braidpool)
-- 🏛️ Code for Gov Tech DM'2025 at SocialCalc & EtherCalc.
+- 🏛️ Code for Gov Tech DM'2025 at SocialCalc & EtherCalc
 - 📊 Hacktoberfest'25 Contributor
 - 💻 5x Hackathon winner at IITK, IITKGP and IITR
+- 🗣️ LF Decentralized Trsu Community Organizer, Madhyapradesh
 - 🔭 Currently pursuing my Bachelors in Computer Science [![@IIITDMJ](https://img.shields.io/badge/@IIITDMJ-8A2BE2)](https://iiitdmj.ac.in)
 - 👨‍🏫 Blockchain Lead of Bitbyte, The Programming Club at Indian Institute Of Information Technology , Jabalpur
 - 👨🏽‍💻 Interested in Competitive Programming, Cloud Technologies, Blockchain and Machine Learnig algorithms.
