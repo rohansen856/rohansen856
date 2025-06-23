@@ -2,9 +2,9 @@
 
 - 🌐 Linux Foundation Mentorship'25 at [OMP](https://github.com/openmainframeproject)
 - ₿ Summer of Bitcoin'2025 at [Braidpool](https://github.com/braidpool)
-- 🏛️ Code for Gov Tech DM'2025 at SocialCalc & EtherCalc
+- 🏛️ Code for Gov Tech DMP'2025 at SocialCalc & EtherCalc
 - 📊 Hacktoberfest'25 Contributor
-- 💻 5x Hackathon winner at IITK, IITKGP and IITR
+- 💻 5x Hackathon winner at IITK, IITKGP & IITR
 - 🗣️ LF Decentralized Trsu Community Organizer, Madhyapradesh
 - 🔭 Currently pursuing my Bachelors in Computer Science [![@IIITDMJ](https://img.shields.io/badge/@IIITDMJ-8A2BE2)](https://iiitdmj.ac.in)
 - 👨‍🏫 Blockchain Lead of Bitbyte, The Programming Club at Indian Institute Of Information Technology , Jabalpur
@@ -32,6 +32,62 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rohansen856&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rohansen856&theme=gruvbox)
+
+---
+<div align="center">
+
+```mermaid
+mindmap
+  root((Rohan Chandra Sen))
+    Technical Arsenal
+      Languages
+        Python
+        Rust
+        GoLang
+        Solidity
+        TypeScript
+        C++ / Java / Dart
+      Frameworks & Tools
+        Next.js / React / Node
+        Docker & Kubernetes
+        Terraform / AWS
+        Remix / Django
+        Git / Figma / Blender
+    AI & Blockchain Wizardry
+      AI Systems
+        Agentic AI Infra
+        Predictive Analytics
+        LLM Integration
+        LangChain & RAG
+      Blockchain Development
+        Web3 Smart Contracts
+        Decentralized Identity
+        Custom Token Economy
+        Summer of Bitcoin Projects
+          ChatBTC
+          P2Pool
+          Coinswap
+          Braidpool
+    Systems & DevOps
+      Mainframe Engineering
+        IBM z/OS
+        Prometheus + Grafana
+        REXX Scripting
+      Microservices Architecture
+        Rust-based APIs
+        Load Balancer & Rate Limiter
+        Redis, Kafka, Zookeeper
+      Infrastructure as Code
+        Terraform + AWS Infra
+        Scalable Cloud Ops
+    Leadership & Impact
+      5x Hackathon Winner 🏆
+      Bitbyte Club Lead (IIITDM)
+      LF Decentralized Trust Organizer
+      Speaker & Educator (600+ students)
+```
+
+</div>
 
 ---
 [![An image of @rohansen856's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansen856)](https://holopin.io/@rohansen856)
